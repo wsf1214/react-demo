@@ -1,0 +1,4 @@
+﻿cnpm install
+webpack -w
+http-server
+浏览器输入localhost打开
